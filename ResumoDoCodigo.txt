@@ -1,0 +1,3 @@
+O Código login com Python e PyQT5 não está endereçado a
+um banco de dado válido, abordarei o algoritmo de
+conexão ao banco de dados no próximo diretório.
